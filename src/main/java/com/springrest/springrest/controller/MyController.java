@@ -24,7 +24,7 @@ public class MyController {
 	
 	@GetMapping("/home")
 	public String home() {
-		
+		 
 		return "Welcome to Courese Application";
 	}
 	
